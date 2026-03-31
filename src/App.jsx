@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <h1 className={styles['blue']}>Шаблон для разработки</h1>
+      <h1 className={styles['blue']}>Привет, как дела?</h1>
     </>
   )
 }
